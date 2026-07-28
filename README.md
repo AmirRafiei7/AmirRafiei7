@@ -108,12 +108,12 @@ I'm interested in collaborating on projects related to:
 
 ---
 
-# 🌐 Connect with Me
+<h2 align="left">🌐 Connect with Me</h2>
 
 <p align="left">
-<a href="https://github.com/AmirRafiei7" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"></a>&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>&nbsp;
-<a href="mailto:office.rafiei9045@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
+<a href="https://github.com/AmirRafiei7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:office.rafiei9045@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
