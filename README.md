@@ -1,16 +1,169 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amir Rafiei</h1>
 
-<!--
-**AmirRafiei7/AmirRafiei7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineer specializing in AI, Medical Imaging & Computer Vision
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building intelligent healthcare software with Artificial Intelligence, Medical Imaging, and scalable backend systems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmirRafiei7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Software Engineer** with professional experience in **backend development**, **IoT systems**, and **AI-powered healthcare applications**.
+
+My current focus is on **Medical Imaging**, **Computer Vision**, **Deep Learning**, and developing intelligent software for **MRI analysis**, **DICOM/NIfTI processing**, **medical image segmentation**, and **interactive 3D visualization**.
+
+I enjoy building reliable software that transforms complex healthcare workflows into scalable AI solutions.
+
+---
+
+# 🚀 Current Focus
+
+- 🔭 Building AI-powered healthcare software
+- 🧠 Medical Image Segmentation
+- 🩻 DICOM & NIfTI Processing Pipelines
+- 🧬 MRI Analysis
+- 🌐 Interactive Medical Image Visualization
+- 🤖 Computer Vision & Deep Learning
+
+---
+
+# 🌱 Currently Learning
+
+- Foundation Models
+- Vision Transformers (ViTs)
+- Large Vision Models (LVMs)
+- 3D Deep Learning
+- Scalable Medical AI Systems
+
+---
+
+# 🤝 Open to Collaborate
+
+I'm interested in collaborating on projects related to:
+
+- Medical Imaging
+- Healthcare AI
+- Computer Vision
+- Deep Learning
+- Open Source Software
+- Intelligent Healthcare Systems
+
+---
+
+# 💬 Ask Me About
+
+- Python
+- Software Engineering
+- Artificial Intelligence
+- Medical Imaging
+- DICOM
+- NIfTI
+- PyTorch
+- TensorFlow
+- Computer Vision
+- Flask
+- FastAPI
+- IoT
+- Raspberry Pi
+
+---
+
+# 📫 Contact
+
+📧 **office.rafiei9045@gmail.com**
+
+---
+
+# ⚡ Philosophy
+
+> *"Reliable AI starts with clean data, reproducible pipelines, and solid software engineering."*
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/AmirRafiei7" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:office.rafiei9045@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,cs,php,mysql,sqlite,postgres" />
+</p>
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,docker" />
+</p>
+
+### Software Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirRafiei7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRafiei7&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AmirRafiei7&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Research & Professional Interests
+
+- Artificial Intelligence
+- Medical Imaging
+- Computer Vision
+- Medical Image Segmentation
+- MRI Analysis
+- DICOM & NIfTI Processing
+- Healthcare AI
+- Scientific Computing
+- Backend Architecture
+- Intelligent Software Systems
+
+---
+
+<p align="center">
+<i>Always learning. Always building. Always improving.</i>
+</p>
+Initial profile README
+Commit changes
