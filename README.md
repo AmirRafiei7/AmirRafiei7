@@ -42,9 +42,6 @@ Automated preprocessing pipeline for deep learning workflows.
 
 Deep learning models for medical image segmentation.
 
-🔹 Niivue Extensions
-
-Interactive 2D/3D medical image visualization utilities.
 
 # 🚀 Current Focus
 
