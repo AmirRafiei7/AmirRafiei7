@@ -157,7 +157,7 @@ I'm interested in collaborating on projects related to:
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirRafiei7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirRafiei7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRafiei7&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
