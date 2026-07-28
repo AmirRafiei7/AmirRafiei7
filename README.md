@@ -110,7 +110,7 @@ I'm interested in collaborating on projects related to:
 
 # 🌐 Connect with Me
 
-<p align="left" style="display : flex;!important">
+<p align="left" display="flex">
   <a href="https://github.com/AmirRafiei7" target="_blank" style="padding-right: 8px;!important"> <img src="https://skillicons.dev/icons?i=github" height="45"/> </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank" style="padding-right: 8px;!important"> <img src="https://skillicons.dev/icons?i=linkedin" height="45"/> </a>
   <a href="mailto:office.rafiei9045@gmail.com" style="padding-right: 8px;!important"> <img src="https://skillicons.dev/icons?i=gmail" height="45"/> </a>
