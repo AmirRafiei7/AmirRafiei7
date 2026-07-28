@@ -26,16 +26,13 @@ I enjoy building reliable software that transforms complex healthcare workflows 
 
 # 🚀 Featured Projects
 
-## 🧠 Medical Imaging Platform
-
+🧠 Medical Imaging Platform
 An AI-powered platform for DICOM management, MRI visualization, medical image segmentation, and healthcare workflows.
 
-## 🩻 DICOM Anonymizer
-
+🩻 DICOM Anonymizer
 A tool for anonymizing DICOM datasets while preserving essential metadata for research.
 
-## ⚙️ DICOM to NIfTI Pipeline
-
+⚙️ DICOM to NIfTI Pipeline
 Automated preprocessing pipeline for medical imaging datasets.
 
 ## 🔬 MRI Segmentation
