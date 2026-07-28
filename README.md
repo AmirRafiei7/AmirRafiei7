@@ -165,5 +165,3 @@ I'm interested in collaborating on projects related to:
 <p align="center">
 <i>Always learning. Always building. Always improving.</i>
 </p>
-Initial profile README
-Commit changes
