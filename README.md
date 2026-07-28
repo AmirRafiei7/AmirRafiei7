@@ -24,7 +24,7 @@ I enjoy building reliable software that transforms complex healthcare workflows 
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 🔹 Medical Imaging Platform
 
@@ -45,6 +45,7 @@ Deep learning models for medical image segmentation.
 🔹 Niivue Extensions
 
 Interactive 2D/3D medical image visualization utilities.
+
 # 🚀 Current Focus
 
 - 🔭 Building AI-powered healthcare software
