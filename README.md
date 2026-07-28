@@ -169,7 +169,8 @@ I'm interested in collaborating on projects related to:
 
 ## 📈 Contribution Graph
 
-[![Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirRafiei7&theme=github-dark)]
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirRafiei7&theme=github-dark)
+
 
 # 🎯 Research & Professional Interests
 
