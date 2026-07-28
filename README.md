@@ -157,12 +157,12 @@ I'm interested in collaborating on projects related to:
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirRafiei7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRafiei7&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirRafiei7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRafiei7&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AmirRafiei7&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AmirRafiei7&theme=github-dark&hide_border=true" />
 </p>
 
 ---
